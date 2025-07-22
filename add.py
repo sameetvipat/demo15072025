@@ -6,5 +6,5 @@ b = int(input("Insert number b: "))
 c = a + b
 
 # Output the result
-print("The sum is:", c)
+print("The sum of the two numbers is :", c)
 
